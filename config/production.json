@@ -1,6 +1,0 @@
-{
-    "mongoURI" : "mongodb+srv://rk_0313:9600135012@techies.yjraw.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtToken": "mysecrettoken",
-    "githubClientId": "1b0b3e282d7e9ea8f563",
-    "githubSecret": "0e033fbd050b7ecd29aae6bd8f301d5b8dfa6c84"
-}
